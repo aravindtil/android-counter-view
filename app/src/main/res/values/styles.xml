@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance1" parent="">
+        <item name="android:textSize">36sp</item>
+        <item name="fontFamily">@font/metropolis_bold</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="TextAppearance2" parent="">
+        <item name="android:textSize">36sp</item>
+        <item name="fontFamily">@font/metropolis_bold</item>
+        <item name="android:textColor">@color/purple</item>
+    </style>
+
+    <style name="TextAppearance3" parent="">
+        <item name="android:textSize">36sp</item>
+        <item name="fontFamily">@font/metropolis_bold</item>
+        <item name="android:textColor">@color/purple_500</item>
+    </style>
+</resources>

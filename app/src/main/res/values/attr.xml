@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TextCounterView">
+        <attr name="counterTextWidth" format="dimension"/>
+        <attr name="counterTextAppearance" format="reference"/>
+    </declare-styleable>
+</resources>
