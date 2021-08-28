@@ -6,7 +6,7 @@
 - Non-Numbers will be added as a normal TextView
 - Upon animating, the numbers will be smoothly scrolled to the target position using animation duration and density DPI
 
-# Demo
+# Cool right?
 ![ani1](https://user-images.githubusercontent.com/19949072/131233509-a506275c-ecc4-4ad5-a483-f159d01a1169.gif) 
 
 ![ani2](https://user-images.githubusercontent.com/19949072/131233525-2f17ce27-b084-430a-93d4-c51ea4af3bbf.gif) 
