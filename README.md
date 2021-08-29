@@ -1,6 +1,6 @@
 # Text Counter View in Android
 - A Simple flip animation for only the **numbers** in the given input string
-- The text can include any special chanracters but only the numbers will be animated
+- The text can include any special characters but only the numbers will be animated
 - LinearLayout has been used as a ViewGroup
 - Used RecyclerViews for each of the numbers in the input text
 - Non-Numbers will be added as a normal TextView
