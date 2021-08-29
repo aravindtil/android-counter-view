@@ -46,7 +46,7 @@
 </style>
     
 ```
-- CounterTextWidth is a custom dimen attribute to set the width of each characted in the text
+- CounterTextWidth is a custom dimen attribute to set the width of each character in the text
 
 **Step 3: Set Text and Animate**
 
