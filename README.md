@@ -8,12 +8,9 @@
 
 # Cool right?
 ![ani4](https://user-images.githubusercontent.com/19949072/131246900-7025551c-d370-4b84-932a-7fc19bc3ab30.gif)
+![ani5](https://user-images.githubusercontent.com/19949072/131247080-3775661d-5f76-4004-9338-cb9caac5e323.gif)
+![ani6](https://user-images.githubusercontent.com/19949072/131247085-b6b29855-8f76-482f-bd3e-e0323ac18190.gif)
 
-![ani1](https://user-images.githubusercontent.com/19949072/131233509-a506275c-ecc4-4ad5-a483-f159d01a1169.gif) 
-
-![ani2](https://user-images.githubusercontent.com/19949072/131233525-2f17ce27-b084-430a-93d4-c51ea4af3bbf.gif) 
-
-![ani3](https://user-images.githubusercontent.com/19949072/131233538-1a10fe12-c6e8-4efc-8e3d-318934078f42.gif)
 
 
 
