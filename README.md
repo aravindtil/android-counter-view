@@ -7,6 +7,8 @@
 - Upon animating, the numbers will be smoothly scrolled to the target position using animation duration and density DPI
 
 # Cool right?
+![ani4](https://user-images.githubusercontent.com/19949072/131246900-7025551c-d370-4b84-932a-7fc19bc3ab30.gif)
+
 ![ani1](https://user-images.githubusercontent.com/19949072/131233509-a506275c-ecc4-4ad5-a483-f159d01a1169.gif) 
 
 ![ani2](https://user-images.githubusercontent.com/19949072/131233525-2f17ce27-b084-430a-93d4-c51ea4af3bbf.gif) 
